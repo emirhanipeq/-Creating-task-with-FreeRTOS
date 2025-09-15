@@ -8,7 +8,6 @@ The goal is to understand the basics of FreeRTOS and how multiple tasks can run 
 ## 📑 Table of Contents
 - [About the Project](#-about-the-project)
 - [Hardware & Software Used](#-hardware--software-used)
-- [Setup and Run](#-setup-and-run)
 - [References](#-references)
 
 ---
@@ -30,10 +29,6 @@ The goal is to understand the basics of FreeRTOS and how multiple tasks can run 
 
 ---
 
-## ⚙️ Setup and Run
-1. Clone the repository:  
-   ```bash
-   git clone https://github.com/emirhanipeq/-Creating-task-with-FreeRTOS.git
 
 ## 📚 References
 FreeRTOS Official Documentation
